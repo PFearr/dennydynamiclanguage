@@ -18,6 +18,9 @@
 			"include": "#numbers"
 		},
 		{
+			"include": "#boolean"
+		},
+		{
 			"include": "#operators"
 		},
 		{
@@ -34,6 +37,10 @@
 		}
 	],
 	"repository": {
+		"boolean": {
+			"name": "constant.language.boolean.ddl",
+			"match": "\\b(true|false)\\b"
+		},
 		"keywords": {
 			"patterns": [
 				{
