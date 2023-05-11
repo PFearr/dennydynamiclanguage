@@ -2,7 +2,7 @@
   "name": "dennydynamiclanguage",
   "displayName": "Denny Dynamic Language",
   "description": "Denny Dynamic Language is a simple coding language to use for simple projects. The extention for it is .ddl",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "pfearr",
   "repository": {
     "type": "git",
