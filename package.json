@@ -32,8 +32,8 @@
       "extensions": [".ddl",".dl"],
       "configuration": "./language-configuration.json",
       "icon": {
-        "light": "./ddl.png",
-        "dark": "./ddl.png"
+        "light": "./ddl_fileicon.png",
+        "dark": "./ddl_fileicon.png"
       }
     }],
     "grammars": [{
